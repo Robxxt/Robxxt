@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nucata
-- 👀 I’m interested in Computer Sciencem, Networks and Cybersecurity.
+- 👀 I’m interested in Computer Science, Networks and Cybersecurity.
 - 🌱 I’m currently learning Programming.
 - 📫 How to reach me: ?
 

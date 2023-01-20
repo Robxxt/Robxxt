@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @nucata
-- 👀 I’m interested in Computer Science, Networks and Cybersecurity.
-- 🌱 I’m currently learning Programming.
-- 📫 How to reach me: ?
-
-<!---
-nucata/nucata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Robxxt
+- 👀 I’m interested in Computer Science topics such as Programming, Operative Systems, Networks and Cybersecurity.
+- 🌱 I’m currently learning System Programming, Database Management and Network Administration.
+- 📫 How to reach me: personal.robert@protonmail.com

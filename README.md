@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Robxxt
-- 👀 I’m interested in Computer Science topics such as Programming, Operative Systems, Networks and Cybersecurity.
-- 🌱 I’m currently learning System Programming, Database Management and Network Administration.
+- 👀 I’m interested in Computer Science topics such as Programming, Operative Systems, IaC, Networks and Cybersecurity.
 - 📫 How to reach me: personal.robert@protonmail.com
